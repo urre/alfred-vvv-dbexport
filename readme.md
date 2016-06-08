@@ -15,6 +15,6 @@ Simple handy exporter right at your fingertips. Cmd + Space 👍
 
 Work in progress
 
-![Alfred](https://cloud.githubusercontent.com/assets/307676/15894167/bfbea768-2d84-11e6-8119-5064cd55b136.png)
+![Alfred](https://cloud.githubusercontent.com/assets/307676/15895049/79b0e268-2d89-11e6-8289-f508298299fc.png)
 
 ![Slack](https://cloud.githubusercontent.com/assets/307676/15894556/c94cae68-2d86-11e6-9372-0058224cbf92.png)
